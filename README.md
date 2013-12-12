@@ -15,4 +15,4 @@ There is no proper error handling when verifying the downloaded archive.
 
 ##Contact
 Gregor Kneitschel
-<gknei.tschel> @at gmail .dot com
+gknei.tschel @at gmail .dot com
