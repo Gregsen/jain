@@ -4,7 +4,7 @@ make installing easier.
 
 ##Usage
 Just run:
-    'chmod +x jain.sh'
+    `chmod +x jain.sh`
 to make it executable and run it via
     `./jain.sh`
 Jain will ask for an URL to download Java from.
