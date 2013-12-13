@@ -4,9 +4,9 @@ make installing easier.
 
 ##Usage
 Just run:
-    chmod +x jain.sh
+    'chmod +x jain.sh'
 to make it executable and run it via
-    ./jain.sh
+    `./jain.sh`
 Jain will ask for an URL to download Java from.
 If no URL is provided, it will download Java 7u45 as default from the [Oracle website](http://www.oracle.com/technetwork/java/javase/downloads/jdk7-downloads-1880260.html).
 
