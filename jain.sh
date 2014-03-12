@@ -2,7 +2,7 @@
 
 # Version 0.1
 # author  Gregsen
-# email gkneitschel @at gmail .dot com
+# email gknei.tschel @at gmail .dot com
 
 JAVA_INSTALL_DIR="/opt/Oracle_Java/"
 FILE="java.tar.gz"  # name of the file after download
@@ -99,12 +99,12 @@ sudo update-alternatives --set "javaws" "$JAVA_INSTALL_DIR$JAVA_DIR/bin/javaws"
 
 # finish. Export PATH
 progress "Set JAVA_HOME" 90
-echo "export JAVA_HOME=$JAVA_INSTALL_DIR$JAVA_DIR" >> ~/.bash_profile
-echo "export PATH=$PATH:$JAVA_HOME/bin" >> ~/.bash_profile
+echo "export JAVA_HOME=$JAVA_INSTALL_DIR$JAVA_DIR" >> ~/.bashrc
+echo "export PATH=$PATH:$JAVA_HOME/bin" >> ~/.bashrc
 
 
 progress "Refresh .bash_profile" 100
-. ~/.bash_profile
+. ~/.bashrc
 
 break
 done
