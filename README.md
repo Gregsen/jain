@@ -1,7 +1,7 @@
 #Jain
 Jain (JAva INstaller) is a simple java installer for Ubuntu. It provides a minimalistic GUI to
 make installing easier.
-
+..
 ##Usage
 Just run:
     `chmod +x jain.sh`
