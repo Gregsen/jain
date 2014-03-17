@@ -1,5 +1,5 @@
 #Jain
-Jain is a simple java installer for Ubuntu. It provides a minimalistic GUI to
+Jain (JAva INstaller) is a simple java installer for Ubuntu. It provides a minimalistic GUI to
 make installing easier.
 
 ##Usage
